@@ -1,7 +1,4 @@
-﻿using System.Linq;
-//using System.Data.Entity;
-
-namespace LEARNING_AREA.Controllers
+﻿namespace LEARNING_AREA.Controllers
 {
 	public class MController : System.Web.Mvc.Controller
 	{
